@@ -1,5 +1,5 @@
-# Tutorial
-Git Tutorial
+# Tutorial Edited
+Git Tutoria
 
 this is a tutorial for project for app in python
 
