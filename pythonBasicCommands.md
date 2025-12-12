@@ -19,9 +19,9 @@ type(): Returns the type of an object.
 len(): Returns the number of items in an object (e.g., string, list, tuple, dictionary).
 >Python
     ``my_list = [1, 2, 3]
-    print(len(my_list))`` 
-    
-    # Output: 3
+    print(len(my_list)) 
+    # Output: 3``
+
 int(), float(), str(), bool(): Used for type conversion.
 >Python
     num_str = "123"
