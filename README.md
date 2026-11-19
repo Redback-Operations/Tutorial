@@ -40,5 +40,5 @@ git status
 git add README.md
 git commit -m "Add GitHub clinic workflow instructions"
 
-git push -u origin mb-readme-update
+git push -u origin update-readme-example
 
